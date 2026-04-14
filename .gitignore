@@ -1,0 +1,5 @@
+.venv/
+input/
+__pycache__/
+*.pyc
+emotion_model.h5

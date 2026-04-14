@@ -1,0 +1,5888 @@
+[
+    {
+        "image": "input/CK+48\\anger\\S010_004_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "sadness",
+        "confidence": 0.6271493434906006
+    },
+    {
+        "image": "input/CK+48\\anger\\S010_004_00000018.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7063236236572266
+    },
+    {
+        "image": "input/CK+48\\anger\\S010_004_00000019.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "sadness",
+        "confidence": 0.6179062128067017
+    },
+    {
+        "image": "input/CK+48\\anger\\S011_004_00000019.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9570727944374084
+    },
+    {
+        "image": "input/CK+48\\anger\\S011_004_00000020.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9728674292564392
+    },
+    {
+        "image": "input/CK+48\\anger\\S011_004_00000021.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9679461121559143
+    },
+    {
+        "image": "input/CK+48\\anger\\S014_003_00000028.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9036650657653809
+    },
+    {
+        "image": "input/CK+48\\anger\\S014_003_00000029.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9019246101379395
+    },
+    {
+        "image": "input/CK+48\\anger\\S014_003_00000030.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9230596423149109
+    },
+    {
+        "image": "input/CK+48\\anger\\S022_005_00000030.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.560772716999054
+    },
+    {
+        "image": "input/CK+48\\anger\\S022_005_00000031.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.510745108127594
+    },
+    {
+        "image": "input/CK+48\\anger\\S022_005_00000032.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.5185661315917969
+    },
+    {
+        "image": "input/CK+48\\anger\\S026_003_00000013.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9675449728965759
+    },
+    {
+        "image": "input/CK+48\\anger\\S026_003_00000014.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9142311811447144
+    },
+    {
+        "image": "input/CK+48\\anger\\S026_003_00000015.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8999871015548706
+    },
+    {
+        "image": "input/CK+48\\anger\\S028_001_00000022.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "happy",
+        "confidence": 0.7915652394294739
+    },
+    {
+        "image": "input/CK+48\\anger\\S028_001_00000023.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "happy",
+        "confidence": 0.8844499588012695
+    },
+    {
+        "image": "input/CK+48\\anger\\S028_001_00000024.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "happy",
+        "confidence": 0.8862472772598267
+    },
+    {
+        "image": "input/CK+48\\anger\\S029_001_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6843966245651245
+    },
+    {
+        "image": "input/CK+48\\anger\\S029_001_00000018.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6863716244697571
+    },
+    {
+        "image": "input/CK+48\\anger\\S029_001_00000019.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7107591032981873
+    },
+    {
+        "image": "input/CK+48\\anger\\S032_003_00000015.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9563766121864319
+    },
+    {
+        "image": "input/CK+48\\anger\\S032_003_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9351224899291992
+    },
+    {
+        "image": "input/CK+48\\anger\\S032_003_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9547346830368042
+    },
+    {
+        "image": "input/CK+48\\anger\\S034_003_00000025.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.4984532296657562
+    },
+    {
+        "image": "input/CK+48\\anger\\S034_003_00000026.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.5645655989646912
+    },
+    {
+        "image": "input/CK+48\\anger\\S034_003_00000027.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.615946888923645
+    },
+    {
+        "image": "input/CK+48\\anger\\S037_003_00000020.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9782959818840027
+    },
+    {
+        "image": "input/CK+48\\anger\\S037_003_00000021.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9808288216590881
+    },
+    {
+        "image": "input/CK+48\\anger\\S037_003_00000022.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9676974415779114
+    },
+    {
+        "image": "input/CK+48\\anger\\S042_004_00000018.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7815609574317932
+    },
+    {
+        "image": "input/CK+48\\anger\\S042_004_00000019.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7767232060432434
+    },
+    {
+        "image": "input/CK+48\\anger\\S042_004_00000020.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7497182488441467
+    },
+    {
+        "image": "input/CK+48\\anger\\S045_005_00000028.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9295129179954529
+    },
+    {
+        "image": "input/CK+48\\anger\\S045_005_00000029.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8977545499801636
+    },
+    {
+        "image": "input/CK+48\\anger\\S045_005_00000030.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9292857646942139
+    },
+    {
+        "image": "input/CK+48\\anger\\S050_004_00000019.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9758101105690002
+    },
+    {
+        "image": "input/CK+48\\anger\\S050_004_00000020.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9757349491119385
+    },
+    {
+        "image": "input/CK+48\\anger\\S050_004_00000021.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9752956032752991
+    },
+    {
+        "image": "input/CK+48\\anger\\S055_004_00000026.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8751415610313416
+    },
+    {
+        "image": "input/CK+48\\anger\\S055_004_00000027.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8430866599082947
+    },
+    {
+        "image": "input/CK+48\\anger\\S055_004_00000028.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8670177459716797
+    },
+    {
+        "image": "input/CK+48\\anger\\S058_005_00000008.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9954633116722107
+    },
+    {
+        "image": "input/CK+48\\anger\\S058_005_00000009.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9960891008377075
+    },
+    {
+        "image": "input/CK+48\\anger\\S058_005_00000010.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9944080114364624
+    },
+    {
+        "image": "input/CK+48\\anger\\S066_005_00000009.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9302689433097839
+    },
+    {
+        "image": "input/CK+48\\anger\\S066_005_00000010.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8982486724853516
+    },
+    {
+        "image": "input/CK+48\\anger\\S066_005_00000011.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8946056365966797
+    },
+    {
+        "image": "input/CK+48\\anger\\S067_004_00000021.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9481451511383057
+    },
+    {
+        "image": "input/CK+48\\anger\\S067_004_00000022.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9500715136528015
+    },
+    {
+        "image": "input/CK+48\\anger\\S067_004_00000023.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9567093849182129
+    },
+    {
+        "image": "input/CK+48\\anger\\S071_004_00000026.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9594448804855347
+    },
+    {
+        "image": "input/CK+48\\anger\\S071_004_00000027.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9690114259719849
+    },
+    {
+        "image": "input/CK+48\\anger\\S071_004_00000028.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9603473544120789
+    },
+    {
+        "image": "input/CK+48\\anger\\S072_005_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9949097037315369
+    },
+    {
+        "image": "input/CK+48\\anger\\S072_005_00000018.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9949758052825928
+    },
+    {
+        "image": "input/CK+48\\anger\\S072_005_00000019.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9928916692733765
+    },
+    {
+        "image": "input/CK+48\\anger\\S075_008_00000010.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9458107948303223
+    },
+    {
+        "image": "input/CK+48\\anger\\S075_008_00000011.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9308999180793762
+    },
+    {
+        "image": "input/CK+48\\anger\\S075_008_00000012.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9343645572662354
+    },
+    {
+        "image": "input/CK+48\\anger\\S082_005_00000015.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6390214562416077
+    },
+    {
+        "image": "input/CK+48\\anger\\S082_005_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7938896417617798
+    },
+    {
+        "image": "input/CK+48\\anger\\S082_005_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6301845908164978
+    },
+    {
+        "image": "input/CK+48\\anger\\S087_007_00000014.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.3961622416973114
+    },
+    {
+        "image": "input/CK+48\\anger\\S087_007_00000015.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "disgust",
+        "confidence": 0.397503137588501
+    },
+    {
+        "image": "input/CK+48\\anger\\S087_007_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.37867847084999084
+    },
+    {
+        "image": "input/CK+48\\anger\\S089_003_00000034.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9790249466896057
+    },
+    {
+        "image": "input/CK+48\\anger\\S089_003_00000035.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9850991368293762
+    },
+    {
+        "image": "input/CK+48\\anger\\S089_003_00000036.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9764416217803955
+    },
+    {
+        "image": "input/CK+48\\anger\\S090_007_00000012.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6620438694953918
+    },
+    {
+        "image": "input/CK+48\\anger\\S090_007_00000013.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.69065922498703
+    },
+    {
+        "image": "input/CK+48\\anger\\S090_007_00000014.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7060444951057434
+    },
+    {
+        "image": "input/CK+48\\anger\\S092_003_00000012.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.916907787322998
+    },
+    {
+        "image": "input/CK+48\\anger\\S092_003_00000013.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8708699941635132
+    },
+    {
+        "image": "input/CK+48\\anger\\S092_003_00000014.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.902853786945343
+    },
+    {
+        "image": "input/CK+48\\anger\\S100_005_00000021.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9780981540679932
+    },
+    {
+        "image": "input/CK+48\\anger\\S100_005_00000022.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9808274507522583
+    },
+    {
+        "image": "input/CK+48\\anger\\S100_005_00000023.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.983688235282898
+    },
+    {
+        "image": "input/CK+48\\anger\\S109_003_00000015.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9648638963699341
+    },
+    {
+        "image": "input/CK+48\\anger\\S109_003_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9306401610374451
+    },
+    {
+        "image": "input/CK+48\\anger\\S109_003_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.929617166519165
+    },
+    {
+        "image": "input/CK+48\\anger\\S111_006_00000008.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6096483469009399
+    },
+    {
+        "image": "input/CK+48\\anger\\S111_006_00000009.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7217443585395813
+    },
+    {
+        "image": "input/CK+48\\anger\\S111_006_00000010.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8029417395591736
+    },
+    {
+        "image": "input/CK+48\\anger\\S112_005_00000015.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.5605990290641785
+    },
+    {
+        "image": "input/CK+48\\anger\\S112_005_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.5483027100563049
+    },
+    {
+        "image": "input/CK+48\\anger\\S112_005_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.5701034665107727
+    },
+    {
+        "image": "input/CK+48\\anger\\S113_008_00000021.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9952451586723328
+    },
+    {
+        "image": "input/CK+48\\anger\\S113_008_00000022.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9955390095710754
+    },
+    {
+        "image": "input/CK+48\\anger\\S113_008_00000023.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9957826137542725
+    },
+    {
+        "image": "input/CK+48\\anger\\S117_006_00000008.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9595524668693542
+    },
+    {
+        "image": "input/CK+48\\anger\\S117_006_00000009.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9828033447265625
+    },
+    {
+        "image": "input/CK+48\\anger\\S117_006_00000010.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9840738773345947
+    },
+    {
+        "image": "input/CK+48\\anger\\S119_008_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8144077062606812
+    },
+    {
+        "image": "input/CK+48\\anger\\S119_008_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.849753737449646
+    },
+    {
+        "image": "input/CK+48\\anger\\S119_008_00000018.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8090259432792664
+    },
+    {
+        "image": "input/CK+48\\anger\\S126_008_00000027.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8925312757492065
+    },
+    {
+        "image": "input/CK+48\\anger\\S126_008_00000028.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8893715739250183
+    },
+    {
+        "image": "input/CK+48\\anger\\S126_008_00000029.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8868253827095032
+    },
+    {
+        "image": "input/CK+48\\anger\\S127_010_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9084954261779785
+    },
+    {
+        "image": "input/CK+48\\anger\\S127_010_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.935941755771637
+    },
+    {
+        "image": "input/CK+48\\anger\\S127_010_00000018.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9305047988891602
+    },
+    {
+        "image": "input/CK+48\\anger\\S129_006_00000008.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.4810851216316223
+    },
+    {
+        "image": "input/CK+48\\anger\\S129_006_00000009.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.5424633622169495
+    },
+    {
+        "image": "input/CK+48\\anger\\S129_006_00000010.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.5340335965156555
+    },
+    {
+        "image": "input/CK+48\\anger\\S130_007_00000018.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9092292189598083
+    },
+    {
+        "image": "input/CK+48\\anger\\S130_007_00000019.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.945232629776001
+    },
+    {
+        "image": "input/CK+48\\anger\\S130_007_00000020.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9538560509681702
+    },
+    {
+        "image": "input/CK+48\\anger\\S133_003_00000045.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6910185217857361
+    },
+    {
+        "image": "input/CK+48\\anger\\S133_003_00000046.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8093836903572083
+    },
+    {
+        "image": "input/CK+48\\anger\\S133_003_00000047.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7489141225814819
+    },
+    {
+        "image": "input/CK+48\\anger\\S134_003_00000009.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8213284015655518
+    },
+    {
+        "image": "input/CK+48\\anger\\S134_003_00000010.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8712975382804871
+    },
+    {
+        "image": "input/CK+48\\anger\\S134_003_00000011.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8749716877937317
+    },
+    {
+        "image": "input/CK+48\\anger\\S136_005_00000008.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8506311774253845
+    },
+    {
+        "image": "input/CK+48\\anger\\S136_005_00000009.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8228095173835754
+    },
+    {
+        "image": "input/CK+48\\anger\\S136_005_00000010.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8540493249893188
+    },
+    {
+        "image": "input/CK+48\\anger\\S501_001_00000065.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8627715706825256
+    },
+    {
+        "image": "input/CK+48\\anger\\S501_001_00000066.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8679358959197998
+    },
+    {
+        "image": "input/CK+48\\anger\\S501_001_00000067.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8685710430145264
+    },
+    {
+        "image": "input/CK+48\\anger\\S502_001_00000014.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.45104727149009705
+    },
+    {
+        "image": "input/CK+48\\anger\\S502_001_00000015.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.43842580914497375
+    },
+    {
+        "image": "input/CK+48\\anger\\S502_001_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.4539456069469452
+    },
+    {
+        "image": "input/CK+48\\anger\\S503_001_00000069.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.648388147354126
+    },
+    {
+        "image": "input/CK+48\\anger\\S503_001_00000070.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6742815375328064
+    },
+    {
+        "image": "input/CK+48\\anger\\S503_001_00000071.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.6931604743003845
+    },
+    {
+        "image": "input/CK+48\\anger\\S504_001_00000020.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7973051071166992
+    },
+    {
+        "image": "input/CK+48\\anger\\S504_001_00000021.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.7459486722946167
+    },
+    {
+        "image": "input/CK+48\\anger\\S504_001_00000022.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.759090781211853
+    },
+    {
+        "image": "input/CK+48\\anger\\S506_001_00000038.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8033201694488525
+    },
+    {
+        "image": "input/CK+48\\anger\\S506_001_00000039.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.8097261190414429
+    },
+    {
+        "image": "input/CK+48\\anger\\S506_001_00000040.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.801367998123169
+    },
+    {
+        "image": "input/CK+48\\anger\\S999_001_00000016.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9383001327514648
+    },
+    {
+        "image": "input/CK+48\\anger\\S999_001_00000017.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.9377934336662292
+    },
+    {
+        "image": "input/CK+48\\anger\\S999_001_00000018.png",
+        "true_emotion": "anger",
+        "predicted_emotion": "anger",
+        "confidence": 0.93699711561203
+    },
+    {
+        "image": "input/CK+48\\contempt\\S138_008_00000007.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "fear",
+        "confidence": 0.5858231782913208
+    },
+    {
+        "image": "input/CK+48\\contempt\\S138_008_00000008.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "fear",
+        "confidence": 0.6625087857246399
+    },
+    {
+        "image": "input/CK+48\\contempt\\S138_008_00000009.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "fear",
+        "confidence": 0.5591747164726257
+    },
+    {
+        "image": "input/CK+48\\contempt\\S139_002_00000011.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7988995909690857
+    },
+    {
+        "image": "input/CK+48\\contempt\\S139_002_00000012.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7589447498321533
+    },
+    {
+        "image": "input/CK+48\\contempt\\S139_002_00000013.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7719329595565796
+    },
+    {
+        "image": "input/CK+48\\contempt\\S147_002_00000011.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.4824449419975281
+    },
+    {
+        "image": "input/CK+48\\contempt\\S147_002_00000012.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.5028427243232727
+    },
+    {
+        "image": "input/CK+48\\contempt\\S147_002_00000013.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7177165150642395
+    },
+    {
+        "image": "input/CK+48\\contempt\\S148_002_00000013.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.3172164559364319
+    },
+    {
+        "image": "input/CK+48\\contempt\\S148_002_00000014.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.3174213171005249
+    },
+    {
+        "image": "input/CK+48\\contempt\\S148_002_00000015.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.35130754113197327
+    },
+    {
+        "image": "input/CK+48\\contempt\\S149_002_00000011.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.8805965185165405
+    },
+    {
+        "image": "input/CK+48\\contempt\\S149_002_00000012.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.872012734413147
+    },
+    {
+        "image": "input/CK+48\\contempt\\S149_002_00000013.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.8788094520568848
+    },
+    {
+        "image": "input/CK+48\\contempt\\S151_002_00000027.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.6910238265991211
+    },
+    {
+        "image": "input/CK+48\\contempt\\S151_002_00000028.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7129782438278198
+    },
+    {
+        "image": "input/CK+48\\contempt\\S151_002_00000029.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7438560724258423
+    },
+    {
+        "image": "input/CK+48\\contempt\\S154_002_00000011.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.6001816391944885
+    },
+    {
+        "image": "input/CK+48\\contempt\\S154_002_00000012.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.576465904712677
+    },
+    {
+        "image": "input/CK+48\\contempt\\S154_002_00000013.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.5984849333763123
+    },
+    {
+        "image": "input/CK+48\\contempt\\S155_002_00000010.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "fear",
+        "confidence": 0.3607187867164612
+    },
+    {
+        "image": "input/CK+48\\contempt\\S155_002_00000011.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "fear",
+        "confidence": 0.36284032464027405
+    },
+    {
+        "image": "input/CK+48\\contempt\\S155_002_00000012.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.35794633626937866
+    },
+    {
+        "image": "input/CK+48\\contempt\\S156_002_00000019.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7112281918525696
+    },
+    {
+        "image": "input/CK+48\\contempt\\S156_002_00000020.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.6491079926490784
+    },
+    {
+        "image": "input/CK+48\\contempt\\S156_002_00000021.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.4443599581718445
+    },
+    {
+        "image": "input/CK+48\\contempt\\S157_002_00000009.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.8253874182701111
+    },
+    {
+        "image": "input/CK+48\\contempt\\S157_002_00000010.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.818217396736145
+    },
+    {
+        "image": "input/CK+48\\contempt\\S157_002_00000011.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.799214780330658
+    },
+    {
+        "image": "input/CK+48\\contempt\\S158_002_00000009.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.8823989629745483
+    },
+    {
+        "image": "input/CK+48\\contempt\\S158_002_00000010.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.8828654885292053
+    },
+    {
+        "image": "input/CK+48\\contempt\\S158_002_00000011.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.9095219969749451
+    },
+    {
+        "image": "input/CK+48\\contempt\\S160_006_00000008.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "sadness",
+        "confidence": 0.33245351910591125
+    },
+    {
+        "image": "input/CK+48\\contempt\\S160_006_00000009.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "sadness",
+        "confidence": 0.3521233797073364
+    },
+    {
+        "image": "input/CK+48\\contempt\\S160_006_00000010.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "sadness",
+        "confidence": 0.36964428424835205
+    },
+    {
+        "image": "input/CK+48\\contempt\\S502_002_00000007.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7960954904556274
+    },
+    {
+        "image": "input/CK+48\\contempt\\S502_002_00000008.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.8052486777305603
+    },
+    {
+        "image": "input/CK+48\\contempt\\S502_002_00000009.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7980455756187439
+    },
+    {
+        "image": "input/CK+48\\contempt\\S503_002_00000006.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.3585026264190674
+    },
+    {
+        "image": "input/CK+48\\contempt\\S503_002_00000007.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.3615606129169464
+    },
+    {
+        "image": "input/CK+48\\contempt\\S503_002_00000008.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.34863388538360596
+    },
+    {
+        "image": "input/CK+48\\contempt\\S504_002_00000007.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.6818795204162598
+    },
+    {
+        "image": "input/CK+48\\contempt\\S504_002_00000008.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.6989977955818176
+    },
+    {
+        "image": "input/CK+48\\contempt\\S504_002_00000009.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7319531440734863
+    },
+    {
+        "image": "input/CK+48\\contempt\\S505_002_00000019.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7590312361717224
+    },
+    {
+        "image": "input/CK+48\\contempt\\S505_002_00000020.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7911174893379211
+    },
+    {
+        "image": "input/CK+48\\contempt\\S505_002_00000021.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.7867617011070251
+    },
+    {
+        "image": "input/CK+48\\contempt\\S506_002_00000007.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.3332214057445526
+    },
+    {
+        "image": "input/CK+48\\contempt\\S506_002_00000008.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.4939659535884857
+    },
+    {
+        "image": "input/CK+48\\contempt\\S506_002_00000009.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.36852437257766724
+    },
+    {
+        "image": "input/CK+48\\contempt\\S895_002_00000005.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.438126802444458
+    },
+    {
+        "image": "input/CK+48\\contempt\\S895_002_00000006.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.5056440830230713
+    },
+    {
+        "image": "input/CK+48\\contempt\\S895_002_00000007.png",
+        "true_emotion": "contempt",
+        "predicted_emotion": "contempt",
+        "confidence": 0.5577492713928223
+    },
+    {
+        "image": "input/CK+48\\disgust\\S005_001_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9993371367454529
+    },
+    {
+        "image": "input/CK+48\\disgust\\S005_001_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9995245933532715
+    },
+    {
+        "image": "input/CK+48\\disgust\\S005_001_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9993956089019775
+    },
+    {
+        "image": "input/CK+48\\disgust\\S011_005_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9986168146133423
+    },
+    {
+        "image": "input/CK+48\\disgust\\S011_005_00000019.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9994850158691406
+    },
+    {
+        "image": "input/CK+48\\disgust\\S011_005_00000020.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9993089437484741
+    },
+    {
+        "image": "input/CK+48\\disgust\\S022_006_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.4040268063545227
+    },
+    {
+        "image": "input/CK+48\\disgust\\S022_006_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.5733582377433777
+    },
+    {
+        "image": "input/CK+48\\disgust\\S022_006_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.8680227398872375
+    },
+    {
+        "image": "input/CK+48\\disgust\\S032_005_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9943122863769531
+    },
+    {
+        "image": "input/CK+48\\disgust\\S032_005_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9635076522827148
+    },
+    {
+        "image": "input/CK+48\\disgust\\S032_005_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9765843749046326
+    },
+    {
+        "image": "input/CK+48\\disgust\\S035_005_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9883884787559509
+    },
+    {
+        "image": "input/CK+48\\disgust\\S035_005_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9930247068405151
+    },
+    {
+        "image": "input/CK+48\\disgust\\S035_005_00000019.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9878380298614502
+    },
+    {
+        "image": "input/CK+48\\disgust\\S044_006_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999481439590454
+    },
+    {
+        "image": "input/CK+48\\disgust\\S044_006_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999951124191284
+    },
+    {
+        "image": "input/CK+48\\disgust\\S044_006_00000019.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999969005584717
+    },
+    {
+        "image": "input/CK+48\\disgust\\S045_004_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9987536668777466
+    },
+    {
+        "image": "input/CK+48\\disgust\\S045_004_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9997362494468689
+    },
+    {
+        "image": "input/CK+48\\disgust\\S045_004_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999551773071289
+    },
+    {
+        "image": "input/CK+48\\disgust\\S046_004_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999474823474884
+    },
+    {
+        "image": "input/CK+48\\disgust\\S046_004_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9993225336074829
+    },
+    {
+        "image": "input/CK+48\\disgust\\S046_004_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9993890523910522
+    },
+    {
+        "image": "input/CK+48\\disgust\\S051_003_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "happy",
+        "confidence": 0.589392900466919
+    },
+    {
+        "image": "input/CK+48\\disgust\\S051_003_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "happy",
+        "confidence": 0.6949629783630371
+    },
+    {
+        "image": "input/CK+48\\disgust\\S051_003_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "happy",
+        "confidence": 0.7706736922264099
+    },
+    {
+        "image": "input/CK+48\\disgust\\S052_006_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9994820952415466
+    },
+    {
+        "image": "input/CK+48\\disgust\\S052_006_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9996042847633362
+    },
+    {
+        "image": "input/CK+48\\disgust\\S052_006_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999822199344635
+    },
+    {
+        "image": "input/CK+48\\disgust\\S054_004_00000022.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998476505279541
+    },
+    {
+        "image": "input/CK+48\\disgust\\S054_004_00000023.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999799728393555
+    },
+    {
+        "image": "input/CK+48\\disgust\\S054_004_00000024.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999793767929077
+    },
+    {
+        "image": "input/CK+48\\disgust\\S055_003_00000007.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9979019165039062
+    },
+    {
+        "image": "input/CK+48\\disgust\\S055_003_00000008.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.998695433139801
+    },
+    {
+        "image": "input/CK+48\\disgust\\S055_003_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9987597465515137
+    },
+    {
+        "image": "input/CK+48\\disgust\\S056_002_00000008.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999885559082031
+    },
+    {
+        "image": "input/CK+48\\disgust\\S056_002_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999915361404419
+    },
+    {
+        "image": "input/CK+48\\disgust\\S056_002_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999949932098389
+    },
+    {
+        "image": "input/CK+48\\disgust\\S057_003_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9988180994987488
+    },
+    {
+        "image": "input/CK+48\\disgust\\S057_003_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9991956353187561
+    },
+    {
+        "image": "input/CK+48\\disgust\\S057_003_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9993634819984436
+    },
+    {
+        "image": "input/CK+48\\disgust\\S058_006_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9975679516792297
+    },
+    {
+        "image": "input/CK+48\\disgust\\S058_006_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9992653727531433
+    },
+    {
+        "image": "input/CK+48\\disgust\\S058_006_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.996483325958252
+    },
+    {
+        "image": "input/CK+48\\disgust\\S060_005_00000019.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999909400939941
+    },
+    {
+        "image": "input/CK+48\\disgust\\S060_005_00000020.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999946355819702
+    },
+    {
+        "image": "input/CK+48\\disgust\\S060_005_00000021.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999959468841553
+    },
+    {
+        "image": "input/CK+48\\disgust\\S061_004_00000020.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9992141723632812
+    },
+    {
+        "image": "input/CK+48\\disgust\\S061_004_00000021.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9991430044174194
+    },
+    {
+        "image": "input/CK+48\\disgust\\S061_004_00000022.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9990687966346741
+    },
+    {
+        "image": "input/CK+48\\disgust\\S062_005_00000027.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9942264556884766
+    },
+    {
+        "image": "input/CK+48\\disgust\\S062_005_00000028.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9920367002487183
+    },
+    {
+        "image": "input/CK+48\\disgust\\S062_005_00000029.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9870442748069763
+    },
+    {
+        "image": "input/CK+48\\disgust\\S065_005_00000006.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9679180383682251
+    },
+    {
+        "image": "input/CK+48\\disgust\\S065_005_00000007.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9893697500228882
+    },
+    {
+        "image": "input/CK+48\\disgust\\S065_005_00000008.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9899707436561584
+    },
+    {
+        "image": "input/CK+48\\disgust\\S067_006_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.998508632183075
+    },
+    {
+        "image": "input/CK+48\\disgust\\S067_006_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9992903470993042
+    },
+    {
+        "image": "input/CK+48\\disgust\\S067_006_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9991804957389832
+    },
+    {
+        "image": "input/CK+48\\disgust\\S068_005_00000019.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.998964786529541
+    },
+    {
+        "image": "input/CK+48\\disgust\\S068_005_00000020.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9977505803108215
+    },
+    {
+        "image": "input/CK+48\\disgust\\S068_005_00000021.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9953081011772156
+    },
+    {
+        "image": "input/CK+48\\disgust\\S069_003_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9992443323135376
+    },
+    {
+        "image": "input/CK+48\\disgust\\S069_003_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9996258020401001
+    },
+    {
+        "image": "input/CK+48\\disgust\\S069_003_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9997710585594177
+    },
+    {
+        "image": "input/CK+48\\disgust\\S070_005_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9972370862960815
+    },
+    {
+        "image": "input/CK+48\\disgust\\S070_005_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9995191097259521
+    },
+    {
+        "image": "input/CK+48\\disgust\\S070_005_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998383522033691
+    },
+    {
+        "image": "input/CK+48\\disgust\\S071_006_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999488592147827
+    },
+    {
+        "image": "input/CK+48\\disgust\\S071_006_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999666213989258
+    },
+    {
+        "image": "input/CK+48\\disgust\\S071_006_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999616146087646
+    },
+    {
+        "image": "input/CK+48\\disgust\\S073_006_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9919483661651611
+    },
+    {
+        "image": "input/CK+48\\disgust\\S073_006_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9977078437805176
+    },
+    {
+        "image": "input/CK+48\\disgust\\S073_006_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9988607168197632
+    },
+    {
+        "image": "input/CK+48\\disgust\\S074_004_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\disgust\\S074_004_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999988079071045
+    },
+    {
+        "image": "input/CK+48\\disgust\\S074_004_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999988079071045
+    },
+    {
+        "image": "input/CK+48\\disgust\\S075_005_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9311811923980713
+    },
+    {
+        "image": "input/CK+48\\disgust\\S075_005_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9826906323432922
+    },
+    {
+        "image": "input/CK+48\\disgust\\S075_005_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9893576502799988
+    },
+    {
+        "image": "input/CK+48\\disgust\\S076_005_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9996843338012695
+    },
+    {
+        "image": "input/CK+48\\disgust\\S076_005_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998551607131958
+    },
+    {
+        "image": "input/CK+48\\disgust\\S076_005_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999525547027588
+    },
+    {
+        "image": "input/CK+48\\disgust\\S077_006_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9991822838783264
+    },
+    {
+        "image": "input/CK+48\\disgust\\S077_006_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9997900128364563
+    },
+    {
+        "image": "input/CK+48\\disgust\\S077_006_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998308420181274
+    },
+    {
+        "image": "input/CK+48\\disgust\\S078_007_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.99998939037323
+    },
+    {
+        "image": "input/CK+48\\disgust\\S078_007_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999918937683105
+    },
+    {
+        "image": "input/CK+48\\disgust\\S078_007_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999991774559021
+    },
+    {
+        "image": "input/CK+48\\disgust\\S079_002_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9906524419784546
+    },
+    {
+        "image": "input/CK+48\\disgust\\S079_002_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9877337217330933
+    },
+    {
+        "image": "input/CK+48\\disgust\\S079_002_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.992236316204071
+    },
+    {
+        "image": "input/CK+48\\disgust\\S080_008_00000007.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9984641075134277
+    },
+    {
+        "image": "input/CK+48\\disgust\\S080_008_00000008.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9980573058128357
+    },
+    {
+        "image": "input/CK+48\\disgust\\S080_008_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998024106025696
+    },
+    {
+        "image": "input/CK+48\\disgust\\S081_008_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998712539672852
+    },
+    {
+        "image": "input/CK+48\\disgust\\S081_008_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998229146003723
+    },
+    {
+        "image": "input/CK+48\\disgust\\S081_008_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998971223831177
+    },
+    {
+        "image": "input/CK+48\\disgust\\S082_007_00000008.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9139671325683594
+    },
+    {
+        "image": "input/CK+48\\disgust\\S082_007_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9472213983535767
+    },
+    {
+        "image": "input/CK+48\\disgust\\S082_007_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9699133634567261
+    },
+    {
+        "image": "input/CK+48\\disgust\\S085_004_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9994617104530334
+    },
+    {
+        "image": "input/CK+48\\disgust\\S085_004_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.998080849647522
+    },
+    {
+        "image": "input/CK+48\\disgust\\S085_004_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9973421692848206
+    },
+    {
+        "image": "input/CK+48\\disgust\\S087_004_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999862551689148
+    },
+    {
+        "image": "input/CK+48\\disgust\\S087_004_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999127388000488
+    },
+    {
+        "image": "input/CK+48\\disgust\\S087_004_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999599456787109
+    },
+    {
+        "image": "input/CK+48\\disgust\\S088_004_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\disgust\\S088_004_00000019.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999985694885254
+    },
+    {
+        "image": "input/CK+48\\disgust\\S088_004_00000020.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\disgust\\S090_006_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9991483688354492
+    },
+    {
+        "image": "input/CK+48\\disgust\\S090_006_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9993426203727722
+    },
+    {
+        "image": "input/CK+48\\disgust\\S090_006_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9995421171188354
+    },
+    {
+        "image": "input/CK+48\\disgust\\S095_006_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9541009068489075
+    },
+    {
+        "image": "input/CK+48\\disgust\\S095_006_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9681613445281982
+    },
+    {
+        "image": "input/CK+48\\disgust\\S095_006_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9586411118507385
+    },
+    {
+        "image": "input/CK+48\\disgust\\S096_003_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9596498012542725
+    },
+    {
+        "image": "input/CK+48\\disgust\\S096_003_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9797489047050476
+    },
+    {
+        "image": "input/CK+48\\disgust\\S096_003_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.982817530632019
+    },
+    {
+        "image": "input/CK+48\\disgust\\S097_004_00000028.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.990388810634613
+    },
+    {
+        "image": "input/CK+48\\disgust\\S097_004_00000029.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9979482293128967
+    },
+    {
+        "image": "input/CK+48\\disgust\\S097_004_00000030.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9993557333946228
+    },
+    {
+        "image": "input/CK+48\\disgust\\S098_003_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9955620765686035
+    },
+    {
+        "image": "input/CK+48\\disgust\\S098_003_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9963386058807373
+    },
+    {
+        "image": "input/CK+48\\disgust\\S098_003_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9976740479469299
+    },
+    {
+        "image": "input/CK+48\\disgust\\S099_007_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999902606010437
+    },
+    {
+        "image": "input/CK+48\\disgust\\S099_007_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999592304229736
+    },
+    {
+        "image": "input/CK+48\\disgust\\S099_007_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999771118164062
+    },
+    {
+        "image": "input/CK+48\\disgust\\S102_009_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9822953939437866
+    },
+    {
+        "image": "input/CK+48\\disgust\\S102_009_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9771536588668823
+    },
+    {
+        "image": "input/CK+48\\disgust\\S102_009_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9843637347221375
+    },
+    {
+        "image": "input/CK+48\\disgust\\S105_008_00000008.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9521171450614929
+    },
+    {
+        "image": "input/CK+48\\disgust\\S105_008_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9541281461715698
+    },
+    {
+        "image": "input/CK+48\\disgust\\S105_008_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9820866584777832
+    },
+    {
+        "image": "input/CK+48\\disgust\\S106_004_00000006.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999979734420776
+    },
+    {
+        "image": "input/CK+48\\disgust\\S106_004_00000007.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999990463256836
+    },
+    {
+        "image": "input/CK+48\\disgust\\S106_004_00000008.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999992847442627
+    },
+    {
+        "image": "input/CK+48\\disgust\\S107_005_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9860610961914062
+    },
+    {
+        "image": "input/CK+48\\disgust\\S107_005_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9892507791519165
+    },
+    {
+        "image": "input/CK+48\\disgust\\S107_005_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9942017197608948
+    },
+    {
+        "image": "input/CK+48\\disgust\\S108_006_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999805688858032
+    },
+    {
+        "image": "input/CK+48\\disgust\\S108_006_00000019.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999976396560669
+    },
+    {
+        "image": "input/CK+48\\disgust\\S108_006_00000020.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999853372573853
+    },
+    {
+        "image": "input/CK+48\\disgust\\S109_005_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998880624771118
+    },
+    {
+        "image": "input/CK+48\\disgust\\S109_005_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998182654380798
+    },
+    {
+        "image": "input/CK+48\\disgust\\S109_005_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999366998672485
+    },
+    {
+        "image": "input/CK+48\\disgust\\S111_007_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999963641166687
+    },
+    {
+        "image": "input/CK+48\\disgust\\S111_007_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999805688858032
+    },
+    {
+        "image": "input/CK+48\\disgust\\S111_007_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999654293060303
+    },
+    {
+        "image": "input/CK+48\\disgust\\S116_006_00000005.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999538779258728
+    },
+    {
+        "image": "input/CK+48\\disgust\\S116_006_00000006.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999468326568604
+    },
+    {
+        "image": "input/CK+48\\disgust\\S116_006_00000007.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999988317489624
+    },
+    {
+        "image": "input/CK+48\\disgust\\S124_006_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9977205395698547
+    },
+    {
+        "image": "input/CK+48\\disgust\\S124_006_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9990991353988647
+    },
+    {
+        "image": "input/CK+48\\disgust\\S124_006_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9997357726097107
+    },
+    {
+        "image": "input/CK+48\\disgust\\S125_008_00000008.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.857858419418335
+    },
+    {
+        "image": "input/CK+48\\disgust\\S125_008_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9530009627342224
+    },
+    {
+        "image": "input/CK+48\\disgust\\S125_008_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9872523546218872
+    },
+    {
+        "image": "input/CK+48\\disgust\\S128_004_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9989357590675354
+    },
+    {
+        "image": "input/CK+48\\disgust\\S128_004_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9979821443557739
+    },
+    {
+        "image": "input/CK+48\\disgust\\S128_004_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9983371496200562
+    },
+    {
+        "image": "input/CK+48\\disgust\\S129_011_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999133348464966
+    },
+    {
+        "image": "input/CK+48\\disgust\\S129_011_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998880624771118
+    },
+    {
+        "image": "input/CK+48\\disgust\\S129_011_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999508857727051
+    },
+    {
+        "image": "input/CK+48\\disgust\\S130_012_00000009.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9250426888465881
+    },
+    {
+        "image": "input/CK+48\\disgust\\S130_012_00000010.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9921091198921204
+    },
+    {
+        "image": "input/CK+48\\disgust\\S130_012_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9927675724029541
+    },
+    {
+        "image": "input/CK+48\\disgust\\S131_010_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999878406524658
+    },
+    {
+        "image": "input/CK+48\\disgust\\S131_010_00000017.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999852180480957
+    },
+    {
+        "image": "input/CK+48\\disgust\\S131_010_00000018.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999821186065674
+    },
+    {
+        "image": "input/CK+48\\disgust\\S132_005_00000014.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9998704195022583
+    },
+    {
+        "image": "input/CK+48\\disgust\\S132_005_00000015.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.999927282333374
+    },
+    {
+        "image": "input/CK+48\\disgust\\S132_005_00000016.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9999483823776245
+    },
+    {
+        "image": "input/CK+48\\disgust\\S134_008_00000011.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9895812273025513
+    },
+    {
+        "image": "input/CK+48\\disgust\\S134_008_00000012.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9979374408721924
+    },
+    {
+        "image": "input/CK+48\\disgust\\S134_008_00000013.png",
+        "true_emotion": "disgust",
+        "predicted_emotion": "disgust",
+        "confidence": 0.9992808699607849
+    },
+    {
+        "image": "input/CK+48\\fear\\S011_003_00000012.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.6949822902679443
+    },
+    {
+        "image": "input/CK+48\\fear\\S011_003_00000013.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.6218460202217102
+    },
+    {
+        "image": "input/CK+48\\fear\\S011_003_00000014.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.7454796433448792
+    },
+    {
+        "image": "input/CK+48\\fear\\S032_004_00000012.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "anger",
+        "confidence": 0.5814338326454163
+    },
+    {
+        "image": "input/CK+48\\fear\\S032_004_00000013.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "anger",
+        "confidence": 0.5905827879905701
+    },
+    {
+        "image": "input/CK+48\\fear\\S032_004_00000014.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "anger",
+        "confidence": 0.5931013822555542
+    },
+    {
+        "image": "input/CK+48\\fear\\S046_003_00000014.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9173968434333801
+    },
+    {
+        "image": "input/CK+48\\fear\\S046_003_00000015.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9318516850471497
+    },
+    {
+        "image": "input/CK+48\\fear\\S046_003_00000016.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9398899674415588
+    },
+    {
+        "image": "input/CK+48\\fear\\S050_001_00000015.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.7708554863929749
+    },
+    {
+        "image": "input/CK+48\\fear\\S050_001_00000016.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8763853311538696
+    },
+    {
+        "image": "input/CK+48\\fear\\S050_001_00000017.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8029187321662903
+    },
+    {
+        "image": "input/CK+48\\fear\\S054_002_00000013.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "contempt",
+        "confidence": 0.3586985766887665
+    },
+    {
+        "image": "input/CK+48\\fear\\S054_002_00000014.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "contempt",
+        "confidence": 0.3177376687526703
+    },
+    {
+        "image": "input/CK+48\\fear\\S054_002_00000015.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "contempt",
+        "confidence": 0.3692452311515808
+    },
+    {
+        "image": "input/CK+48\\fear\\S055_006_00000006.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.815734326839447
+    },
+    {
+        "image": "input/CK+48\\fear\\S055_006_00000007.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8119004368782043
+    },
+    {
+        "image": "input/CK+48\\fear\\S055_006_00000008.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.931287944316864
+    },
+    {
+        "image": "input/CK+48\\fear\\S059_002_00000015.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9444357752799988
+    },
+    {
+        "image": "input/CK+48\\fear\\S059_002_00000016.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9436028003692627
+    },
+    {
+        "image": "input/CK+48\\fear\\S059_002_00000017.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9714739918708801
+    },
+    {
+        "image": "input/CK+48\\fear\\S062_001_00000015.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "contempt",
+        "confidence": 0.4352351725101471
+    },
+    {
+        "image": "input/CK+48\\fear\\S062_001_00000016.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.45424598455429077
+    },
+    {
+        "image": "input/CK+48\\fear\\S062_001_00000017.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.4853394627571106
+    },
+    {
+        "image": "input/CK+48\\fear\\S065_002_00000020.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9231138825416565
+    },
+    {
+        "image": "input/CK+48\\fear\\S065_002_00000021.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9239096641540527
+    },
+    {
+        "image": "input/CK+48\\fear\\S065_002_00000022.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9267405271530151
+    },
+    {
+        "image": "input/CK+48\\fear\\S068_004_00000008.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9510794281959534
+    },
+    {
+        "image": "input/CK+48\\fear\\S068_004_00000009.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9390742182731628
+    },
+    {
+        "image": "input/CK+48\\fear\\S068_004_00000010.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.937029242515564
+    },
+    {
+        "image": "input/CK+48\\fear\\S074_001_00000018.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8756495714187622
+    },
+    {
+        "image": "input/CK+48\\fear\\S074_001_00000019.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9139368534088135
+    },
+    {
+        "image": "input/CK+48\\fear\\S074_001_00000020.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9076523184776306
+    },
+    {
+        "image": "input/CK+48\\fear\\S084_002_00000021.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9600780606269836
+    },
+    {
+        "image": "input/CK+48\\fear\\S084_002_00000022.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.972101628780365
+    },
+    {
+        "image": "input/CK+48\\fear\\S084_002_00000023.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8929675817489624
+    },
+    {
+        "image": "input/CK+48\\fear\\S091_001_00000013.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9556909799575806
+    },
+    {
+        "image": "input/CK+48\\fear\\S091_001_00000014.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.981928825378418
+    },
+    {
+        "image": "input/CK+48\\fear\\S091_001_00000015.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9714092016220093
+    },
+    {
+        "image": "input/CK+48\\fear\\S102_003_00000014.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9023933410644531
+    },
+    {
+        "image": "input/CK+48\\fear\\S102_003_00000015.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8960282206535339
+    },
+    {
+        "image": "input/CK+48\\fear\\S102_003_00000016.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8830669522285461
+    },
+    {
+        "image": "input/CK+48\\fear\\S117_003_00000012.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8542227745056152
+    },
+    {
+        "image": "input/CK+48\\fear\\S117_003_00000013.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.891671359539032
+    },
+    {
+        "image": "input/CK+48\\fear\\S117_003_00000014.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8894669413566589
+    },
+    {
+        "image": "input/CK+48\\fear\\S119_003_00000022.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9507200717926025
+    },
+    {
+        "image": "input/CK+48\\fear\\S119_003_00000023.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9563716053962708
+    },
+    {
+        "image": "input/CK+48\\fear\\S119_003_00000024.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9562570452690125
+    },
+    {
+        "image": "input/CK+48\\fear\\S124_003_00000009.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9932117462158203
+    },
+    {
+        "image": "input/CK+48\\fear\\S124_003_00000010.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9862204790115356
+    },
+    {
+        "image": "input/CK+48\\fear\\S124_003_00000011.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9855901598930359
+    },
+    {
+        "image": "input/CK+48\\fear\\S125_006_00000020.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8577299118041992
+    },
+    {
+        "image": "input/CK+48\\fear\\S125_006_00000021.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8951947689056396
+    },
+    {
+        "image": "input/CK+48\\fear\\S125_006_00000022.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8964684009552002
+    },
+    {
+        "image": "input/CK+48\\fear\\S132_003_00000021.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.7346069812774658
+    },
+    {
+        "image": "input/CK+48\\fear\\S132_003_00000022.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8098344206809998
+    },
+    {
+        "image": "input/CK+48\\fear\\S132_003_00000023.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9378563165664673
+    },
+    {
+        "image": "input/CK+48\\fear\\S138_001_00000010.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9587551355361938
+    },
+    {
+        "image": "input/CK+48\\fear\\S138_001_00000011.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.9660937190055847
+    },
+    {
+        "image": "input/CK+48\\fear\\S138_001_00000012.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.961533784866333
+    },
+    {
+        "image": "input/CK+48\\fear\\S501_004_00000054.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.561664879322052
+    },
+    {
+        "image": "input/CK+48\\fear\\S501_004_00000055.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.5451474189758301
+    },
+    {
+        "image": "input/CK+48\\fear\\S501_004_00000056.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.5163615942001343
+    },
+    {
+        "image": "input/CK+48\\fear\\S502_004_00000050.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8492267727851868
+    },
+    {
+        "image": "input/CK+48\\fear\\S502_004_00000051.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.7341006994247437
+    },
+    {
+        "image": "input/CK+48\\fear\\S502_004_00000052.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.5437362194061279
+    },
+    {
+        "image": "input/CK+48\\fear\\S504_004_00000013.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.5104492902755737
+    },
+    {
+        "image": "input/CK+48\\fear\\S504_004_00000014.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.49540865421295166
+    },
+    {
+        "image": "input/CK+48\\fear\\S504_004_00000015.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.5546680092811584
+    },
+    {
+        "image": "input/CK+48\\fear\\S506_004_00000036.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8476532697677612
+    },
+    {
+        "image": "input/CK+48\\fear\\S506_004_00000037.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8806646466255188
+    },
+    {
+        "image": "input/CK+48\\fear\\S506_004_00000038.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8290720582008362
+    },
+    {
+        "image": "input/CK+48\\fear\\S999_003_00000053.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8208492398262024
+    },
+    {
+        "image": "input/CK+48\\fear\\S999_003_00000054.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8094198703765869
+    },
+    {
+        "image": "input/CK+48\\fear\\S999_003_00000055.png",
+        "true_emotion": "fear",
+        "predicted_emotion": "fear",
+        "confidence": 0.8176968693733215
+    },
+    {
+        "image": "input/CK+48\\happy\\S010_006_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998998641967773
+    },
+    {
+        "image": "input/CK+48\\happy\\S010_006_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999632835388184
+    },
+    {
+        "image": "input/CK+48\\happy\\S010_006_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999781847000122
+    },
+    {
+        "image": "input/CK+48\\happy\\S011_006_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999678134918213
+    },
+    {
+        "image": "input/CK+48\\happy\\S011_006_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999740123748779
+    },
+    {
+        "image": "input/CK+48\\happy\\S011_006_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999797344207764
+    },
+    {
+        "image": "input/CK+48\\happy\\S014_005_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999980926513672
+    },
+    {
+        "image": "input/CK+48\\happy\\S014_005_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999986886978149
+    },
+    {
+        "image": "input/CK+48\\happy\\S014_005_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999990463256836
+    },
+    {
+        "image": "input/CK+48\\happy\\S026_006_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999918937683105
+    },
+    {
+        "image": "input/CK+48\\happy\\S026_006_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999939203262329
+    },
+    {
+        "image": "input/CK+48\\happy\\S026_006_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999994158744812
+    },
+    {
+        "image": "input/CK+48\\happy\\S032_006_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9991587400436401
+    },
+    {
+        "image": "input/CK+48\\happy\\S032_006_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9997808337211609
+    },
+    {
+        "image": "input/CK+48\\happy\\S032_006_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998714923858643
+    },
+    {
+        "image": "input/CK+48\\happy\\S034_005_00000008.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998713731765747
+    },
+    {
+        "image": "input/CK+48\\happy\\S034_005_00000009.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999412298202515
+    },
+    {
+        "image": "input/CK+48\\happy\\S034_005_00000010.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999758005142212
+    },
+    {
+        "image": "input/CK+48\\happy\\S035_006_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S035_006_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S035_006_00000018.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S037_006_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999741315841675
+    },
+    {
+        "image": "input/CK+48\\happy\\S037_006_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999756813049316
+    },
+    {
+        "image": "input/CK+48\\happy\\S037_006_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999855756759644
+    },
+    {
+        "image": "input/CK+48\\happy\\S042_006_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.99945467710495
+    },
+    {
+        "image": "input/CK+48\\happy\\S042_006_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9987897276878357
+    },
+    {
+        "image": "input/CK+48\\happy\\S042_006_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.997863233089447
+    },
+    {
+        "image": "input/CK+48\\happy\\S044_003_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9974787831306458
+    },
+    {
+        "image": "input/CK+48\\happy\\S044_003_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9981548190116882
+    },
+    {
+        "image": "input/CK+48\\happy\\S044_003_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9970768690109253
+    },
+    {
+        "image": "input/CK+48\\happy\\S050_006_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9899153709411621
+    },
+    {
+        "image": "input/CK+48\\happy\\S050_006_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9679471254348755
+    },
+    {
+        "image": "input/CK+48\\happy\\S050_006_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9643179774284363
+    },
+    {
+        "image": "input/CK+48\\happy\\S052_004_00000031.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999938011169434
+    },
+    {
+        "image": "input/CK+48\\happy\\S052_004_00000032.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999978542327881
+    },
+    {
+        "image": "input/CK+48\\happy\\S052_004_00000033.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999963045120239
+    },
+    {
+        "image": "input/CK+48\\happy\\S053_004_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9917603731155396
+    },
+    {
+        "image": "input/CK+48\\happy\\S053_004_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9836655259132385
+    },
+    {
+        "image": "input/CK+48\\happy\\S053_004_00000024.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9619121551513672
+    },
+    {
+        "image": "input/CK+48\\happy\\S055_005_00000043.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999940395355225
+    },
+    {
+        "image": "input/CK+48\\happy\\S055_005_00000044.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999905824661255
+    },
+    {
+        "image": "input/CK+48\\happy\\S055_005_00000045.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999992847442627
+    },
+    {
+        "image": "input/CK+48\\happy\\S056_004_00000018.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S056_004_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S056_004_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S057_006_00000031.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999980926513672
+    },
+    {
+        "image": "input/CK+48\\happy\\S057_006_00000032.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999980926513672
+    },
+    {
+        "image": "input/CK+48\\happy\\S057_006_00000033.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999986886978149
+    },
+    {
+        "image": "input/CK+48\\happy\\S060_002_00000024.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999980926513672
+    },
+    {
+        "image": "input/CK+48\\happy\\S060_002_00000025.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999984502792358
+    },
+    {
+        "image": "input/CK+48\\happy\\S060_002_00000026.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999972581863403
+    },
+    {
+        "image": "input/CK+48\\happy\\S061_002_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999942779541016
+    },
+    {
+        "image": "input/CK+48\\happy\\S061_002_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999996542930603
+    },
+    {
+        "image": "input/CK+48\\happy\\S061_002_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999949932098389
+    },
+    {
+        "image": "input/CK+48\\happy\\S062_004_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9997047781944275
+    },
+    {
+        "image": "input/CK+48\\happy\\S062_004_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999120235443115
+    },
+    {
+        "image": "input/CK+48\\happy\\S062_004_00000024.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998859167098999
+    },
+    {
+        "image": "input/CK+48\\happy\\S063_002_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S063_002_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S063_002_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S064_003_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9566548466682434
+    },
+    {
+        "image": "input/CK+48\\happy\\S064_003_00000024.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9298200607299805
+    },
+    {
+        "image": "input/CK+48\\happy\\S064_003_00000025.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.933158814907074
+    },
+    {
+        "image": "input/CK+48\\happy\\S065_004_00000026.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9968306422233582
+    },
+    {
+        "image": "input/CK+48\\happy\\S065_004_00000027.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9973201155662537
+    },
+    {
+        "image": "input/CK+48\\happy\\S065_004_00000028.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.99457848072052
+    },
+    {
+        "image": "input/CK+48\\happy\\S066_003_00000010.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9921427965164185
+    },
+    {
+        "image": "input/CK+48\\happy\\S066_003_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9975618124008179
+    },
+    {
+        "image": "input/CK+48\\happy\\S066_003_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.998887836933136
+    },
+    {
+        "image": "input/CK+48\\happy\\S067_005_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9991546869277954
+    },
+    {
+        "image": "input/CK+48\\happy\\S067_005_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9987887740135193
+    },
+    {
+        "image": "input/CK+48\\happy\\S067_005_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.997873067855835
+    },
+    {
+        "image": "input/CK+48\\happy\\S068_002_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999549388885498
+    },
+    {
+        "image": "input/CK+48\\happy\\S068_002_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998341798782349
+    },
+    {
+        "image": "input/CK+48\\happy\\S068_002_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999525547027588
+    },
+    {
+        "image": "input/CK+48\\happy\\S069_004_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9996277093887329
+    },
+    {
+        "image": "input/CK+48\\happy\\S069_004_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9996957778930664
+    },
+    {
+        "image": "input/CK+48\\happy\\S069_004_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9996935129165649
+    },
+    {
+        "image": "input/CK+48\\happy\\S070_003_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\happy\\S070_003_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\happy\\S070_003_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\happy\\S071_005_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999397993087769
+    },
+    {
+        "image": "input/CK+48\\happy\\S071_005_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999438524246216
+    },
+    {
+        "image": "input/CK+48\\happy\\S071_005_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999436140060425
+    },
+    {
+        "image": "input/CK+48\\happy\\S072_006_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\happy\\S072_006_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\happy\\S072_006_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\happy\\S074_005_00000041.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999988079071045
+    },
+    {
+        "image": "input/CK+48\\happy\\S074_005_00000042.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999974966049194
+    },
+    {
+        "image": "input/CK+48\\happy\\S074_005_00000043.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\happy\\S075_006_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S075_006_00000024.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S075_006_00000025.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S076_006_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S076_006_00000018.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999991655349731
+    },
+    {
+        "image": "input/CK+48\\happy\\S076_006_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999984502792358
+    },
+    {
+        "image": "input/CK+48\\happy\\S078_004_00000025.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.998895525932312
+    },
+    {
+        "image": "input/CK+48\\happy\\S078_004_00000026.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9967584013938904
+    },
+    {
+        "image": "input/CK+48\\happy\\S078_004_00000027.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9978343844413757
+    },
+    {
+        "image": "input/CK+48\\happy\\S079_004_00000024.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\happy\\S079_004_00000025.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\happy\\S079_004_00000026.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\happy\\S083_003_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999976396560669
+    },
+    {
+        "image": "input/CK+48\\happy\\S083_003_00000018.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999802112579346
+    },
+    {
+        "image": "input/CK+48\\happy\\S083_003_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999836683273315
+    },
+    {
+        "image": "input/CK+48\\happy\\S085_002_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999988079071045
+    },
+    {
+        "image": "input/CK+48\\happy\\S085_002_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S085_002_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S086_002_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999935626983643
+    },
+    {
+        "image": "input/CK+48\\happy\\S086_002_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999833106994629
+    },
+    {
+        "image": "input/CK+48\\happy\\S086_002_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999915361404419
+    },
+    {
+        "image": "input/CK+48\\happy\\S087_005_00000010.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999992847442627
+    },
+    {
+        "image": "input/CK+48\\happy\\S087_005_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999812841415405
+    },
+    {
+        "image": "input/CK+48\\happy\\S087_005_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999887943267822
+    },
+    {
+        "image": "input/CK+48\\happy\\S089_002_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\happy\\S089_002_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\happy\\S089_002_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\happy\\S091_003_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9996035695075989
+    },
+    {
+        "image": "input/CK+48\\happy\\S091_003_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9996895790100098
+    },
+    {
+        "image": "input/CK+48\\happy\\S091_003_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999185800552368
+    },
+    {
+        "image": "input/CK+48\\happy\\S092_004_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999830722808838
+    },
+    {
+        "image": "input/CK+48\\happy\\S092_004_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999831914901733
+    },
+    {
+        "image": "input/CK+48\\happy\\S092_004_00000024.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999730587005615
+    },
+    {
+        "image": "input/CK+48\\happy\\S093_004_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999828338623047
+    },
+    {
+        "image": "input/CK+48\\happy\\S093_004_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999833106994629
+    },
+    {
+        "image": "input/CK+48\\happy\\S093_004_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999614953994751
+    },
+    {
+        "image": "input/CK+48\\happy\\S094_004_00000010.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998462200164795
+    },
+    {
+        "image": "input/CK+48\\happy\\S094_004_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999868631362915
+    },
+    {
+        "image": "input/CK+48\\happy\\S094_004_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998283386230469
+    },
+    {
+        "image": "input/CK+48\\happy\\S095_007_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9832456111907959
+    },
+    {
+        "image": "input/CK+48\\happy\\S095_007_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9870725274085999
+    },
+    {
+        "image": "input/CK+48\\happy\\S095_007_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9910579919815063
+    },
+    {
+        "image": "input/CK+48\\happy\\S096_004_00000009.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998759031295776
+    },
+    {
+        "image": "input/CK+48\\happy\\S096_004_00000010.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999599456787109
+    },
+    {
+        "image": "input/CK+48\\happy\\S096_004_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999704360961914
+    },
+    {
+        "image": "input/CK+48\\happy\\S097_006_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999998927116394
+    },
+    {
+        "image": "input/CK+48\\happy\\S097_006_00000018.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999991655349731
+    },
+    {
+        "image": "input/CK+48\\happy\\S097_006_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\happy\\S098_004_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\happy\\S098_004_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S098_004_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\happy\\S099_004_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999419450759888
+    },
+    {
+        "image": "input/CK+48\\happy\\S099_004_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999222755432129
+    },
+    {
+        "image": "input/CK+48\\happy\\S099_004_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999325275421143
+    },
+    {
+        "image": "input/CK+48\\happy\\S100_006_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999613761901855
+    },
+    {
+        "image": "input/CK+48\\happy\\S100_006_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999969482421875
+    },
+    {
+        "image": "input/CK+48\\happy\\S100_006_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999690055847168
+    },
+    {
+        "image": "input/CK+48\\happy\\S106_006_00000009.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999984502792358
+    },
+    {
+        "image": "input/CK+48\\happy\\S106_006_00000010.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999980926513672
+    },
+    {
+        "image": "input/CK+48\\happy\\S106_006_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999986886978149
+    },
+    {
+        "image": "input/CK+48\\happy\\S108_008_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9997660517692566
+    },
+    {
+        "image": "input/CK+48\\happy\\S108_008_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999572038650513
+    },
+    {
+        "image": "input/CK+48\\happy\\S108_008_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999987006187439
+    },
+    {
+        "image": "input/CK+48\\happy\\S109_006_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999690055847168
+    },
+    {
+        "image": "input/CK+48\\happy\\S109_006_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999598264694214
+    },
+    {
+        "image": "input/CK+48\\happy\\S109_006_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999717473983765
+    },
+    {
+        "image": "input/CK+48\\happy\\S114_006_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\happy\\S114_006_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\happy\\S114_006_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S115_008_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S115_008_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\happy\\S115_008_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\happy\\S116_007_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999933242797852
+    },
+    {
+        "image": "input/CK+48\\happy\\S116_007_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999960660934448
+    },
+    {
+        "image": "input/CK+48\\happy\\S116_007_00000017.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999773502349854
+    },
+    {
+        "image": "input/CK+48\\happy\\S124_007_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9996305704116821
+    },
+    {
+        "image": "input/CK+48\\happy\\S124_007_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999667406082153
+    },
+    {
+        "image": "input/CK+48\\happy\\S124_007_00000024.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998212456703186
+    },
+    {
+        "image": "input/CK+48\\happy\\S125_005_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998733997344971
+    },
+    {
+        "image": "input/CK+48\\happy\\S125_005_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999613761901855
+    },
+    {
+        "image": "input/CK+48\\happy\\S125_005_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999328851699829
+    },
+    {
+        "image": "input/CK+48\\happy\\S127_004_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9927579164505005
+    },
+    {
+        "image": "input/CK+48\\happy\\S127_004_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9919940233230591
+    },
+    {
+        "image": "input/CK+48\\happy\\S127_004_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9972112774848938
+    },
+    {
+        "image": "input/CK+48\\happy\\S128_011_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999539852142334
+    },
+    {
+        "image": "input/CK+48\\happy\\S128_011_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999679327011108
+    },
+    {
+        "image": "input/CK+48\\happy\\S128_011_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999688863754272
+    },
+    {
+        "image": "input/CK+48\\happy\\S129_012_00000009.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9996594190597534
+    },
+    {
+        "image": "input/CK+48\\happy\\S129_012_00000010.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999210834503174
+    },
+    {
+        "image": "input/CK+48\\happy\\S129_012_00000011.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999663829803467
+    },
+    {
+        "image": "input/CK+48\\happy\\S130_013_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998031258583069
+    },
+    {
+        "image": "input/CK+48\\happy\\S130_013_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998615980148315
+    },
+    {
+        "image": "input/CK+48\\happy\\S130_013_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9997078776359558
+    },
+    {
+        "image": "input/CK+48\\happy\\S131_006_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S131_006_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S131_006_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S132_006_00000021.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9987595081329346
+    },
+    {
+        "image": "input/CK+48\\happy\\S132_006_00000022.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9996888637542725
+    },
+    {
+        "image": "input/CK+48\\happy\\S132_006_00000023.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9995336532592773
+    },
+    {
+        "image": "input/CK+48\\happy\\S133_010_00000012.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\happy\\S133_010_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S133_010_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\happy\\S134_004_00000013.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999793767929077
+    },
+    {
+        "image": "input/CK+48\\happy\\S134_004_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999916553497314
+    },
+    {
+        "image": "input/CK+48\\happy\\S134_004_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999920129776001
+    },
+    {
+        "image": "input/CK+48\\happy\\S135_012_00000018.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.997200608253479
+    },
+    {
+        "image": "input/CK+48\\happy\\S135_012_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.997972309589386
+    },
+    {
+        "image": "input/CK+48\\happy\\S135_012_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9982147216796875
+    },
+    {
+        "image": "input/CK+48\\happy\\S136_006_00000018.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9986900687217712
+    },
+    {
+        "image": "input/CK+48\\happy\\S136_006_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9988646507263184
+    },
+    {
+        "image": "input/CK+48\\happy\\S136_006_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9988288283348083
+    },
+    {
+        "image": "input/CK+48\\happy\\S137_011_00000018.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999160766601562
+    },
+    {
+        "image": "input/CK+48\\happy\\S137_011_00000019.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9998507499694824
+    },
+    {
+        "image": "input/CK+48\\happy\\S137_011_00000020.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.999880313873291
+    },
+    {
+        "image": "input/CK+48\\happy\\S138_005_00000014.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999969005584717
+    },
+    {
+        "image": "input/CK+48\\happy\\S138_005_00000015.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999973773956299
+    },
+    {
+        "image": "input/CK+48\\happy\\S138_005_00000016.png",
+        "true_emotion": "happy",
+        "predicted_emotion": "happy",
+        "confidence": 0.9999977350234985
+    },
+    {
+        "image": "input/CK+48\\sadness\\S011_002_00000020.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9452002644538879
+    },
+    {
+        "image": "input/CK+48\\sadness\\S011_002_00000021.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.939852774143219
+    },
+    {
+        "image": "input/CK+48\\sadness\\S011_002_00000022.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9254724383354187
+    },
+    {
+        "image": "input/CK+48\\sadness\\S014_002_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.648281991481781
+    },
+    {
+        "image": "input/CK+48\\sadness\\S014_002_00000015.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.6056334972381592
+    },
+    {
+        "image": "input/CK+48\\sadness\\S014_002_00000016.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.5588383674621582
+    },
+    {
+        "image": "input/CK+48\\sadness\\S026_002_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "disgust",
+        "confidence": 0.43935948610305786
+    },
+    {
+        "image": "input/CK+48\\sadness\\S026_002_00000015.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4816269278526306
+    },
+    {
+        "image": "input/CK+48\\sadness\\S026_002_00000016.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "disgust",
+        "confidence": 0.41476771235466003
+    },
+    {
+        "image": "input/CK+48\\sadness\\S042_002_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4859575629234314
+    },
+    {
+        "image": "input/CK+48\\sadness\\S042_002_00000015.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.5217057466506958
+    },
+    {
+        "image": "input/CK+48\\sadness\\S042_002_00000016.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.7000804543495178
+    },
+    {
+        "image": "input/CK+48\\sadness\\S046_001_00000023.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "surprise",
+        "confidence": 0.902521014213562
+    },
+    {
+        "image": "input/CK+48\\sadness\\S046_001_00000024.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9243284463882446
+    },
+    {
+        "image": "input/CK+48\\sadness\\S046_001_00000025.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "surprise",
+        "confidence": 0.962852954864502
+    },
+    {
+        "image": "input/CK+48\\sadness\\S064_004_00000012.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.6737502217292786
+    },
+    {
+        "image": "input/CK+48\\sadness\\S064_004_00000013.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.6773813962936401
+    },
+    {
+        "image": "input/CK+48\\sadness\\S064_004_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.597930908203125
+    },
+    {
+        "image": "input/CK+48\\sadness\\S066_004_00000008.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7553637027740479
+    },
+    {
+        "image": "input/CK+48\\sadness\\S066_004_00000009.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7062570452690125
+    },
+    {
+        "image": "input/CK+48\\sadness\\S066_004_00000010.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7272772789001465
+    },
+    {
+        "image": "input/CK+48\\sadness\\S071_002_00000018.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.5138205289840698
+    },
+    {
+        "image": "input/CK+48\\sadness\\S071_002_00000019.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.5382126569747925
+    },
+    {
+        "image": "input/CK+48\\sadness\\S071_002_00000020.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.49962377548217773
+    },
+    {
+        "image": "input/CK+48\\sadness\\S080_005_00000011.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.860676646232605
+    },
+    {
+        "image": "input/CK+48\\sadness\\S080_005_00000012.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.8665972948074341
+    },
+    {
+        "image": "input/CK+48\\sadness\\S080_005_00000013.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.8729537725448608
+    },
+    {
+        "image": "input/CK+48\\sadness\\S081_002_00000022.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9693139791488647
+    },
+    {
+        "image": "input/CK+48\\sadness\\S081_002_00000023.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9799551367759705
+    },
+    {
+        "image": "input/CK+48\\sadness\\S081_002_00000024.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9737581610679626
+    },
+    {
+        "image": "input/CK+48\\sadness\\S093_001_00000018.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9767829179763794
+    },
+    {
+        "image": "input/CK+48\\sadness\\S093_001_00000019.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9748706817626953
+    },
+    {
+        "image": "input/CK+48\\sadness\\S093_001_00000020.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9751814007759094
+    },
+    {
+        "image": "input/CK+48\\sadness\\S095_010_00000012.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.45966628193855286
+    },
+    {
+        "image": "input/CK+48\\sadness\\S095_010_00000013.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4466482102870941
+    },
+    {
+        "image": "input/CK+48\\sadness\\S095_010_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.46407532691955566
+    },
+    {
+        "image": "input/CK+48\\sadness\\S106_002_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7315932512283325
+    },
+    {
+        "image": "input/CK+48\\sadness\\S106_002_00000015.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7049636244773865
+    },
+    {
+        "image": "input/CK+48\\sadness\\S106_002_00000016.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7382033467292786
+    },
+    {
+        "image": "input/CK+48\\sadness\\S108_005_00000020.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.585824191570282
+    },
+    {
+        "image": "input/CK+48\\sadness\\S108_005_00000021.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.4786468744277954
+    },
+    {
+        "image": "input/CK+48\\sadness\\S108_005_00000022.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.5816944241523743
+    },
+    {
+        "image": "input/CK+48\\sadness\\S113_003_00000013.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9830551147460938
+    },
+    {
+        "image": "input/CK+48\\sadness\\S113_003_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9817233681678772
+    },
+    {
+        "image": "input/CK+48\\sadness\\S113_003_00000015.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9837983846664429
+    },
+    {
+        "image": "input/CK+48\\sadness\\S115_004_00000015.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7472707629203796
+    },
+    {
+        "image": "input/CK+48\\sadness\\S115_004_00000016.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7709901332855225
+    },
+    {
+        "image": "input/CK+48\\sadness\\S115_004_00000017.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7985103726387024
+    },
+    {
+        "image": "input/CK+48\\sadness\\S125_001_00000012.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7806003093719482
+    },
+    {
+        "image": "input/CK+48\\sadness\\S125_001_00000013.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.8113484382629395
+    },
+    {
+        "image": "input/CK+48\\sadness\\S125_001_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.8144304752349854
+    },
+    {
+        "image": "input/CK+48\\sadness\\S130_009_00000017.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.5879858136177063
+    },
+    {
+        "image": "input/CK+48\\sadness\\S130_009_00000018.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.6091102361679077
+    },
+    {
+        "image": "input/CK+48\\sadness\\S130_009_00000019.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.5391247868537903
+    },
+    {
+        "image": "input/CK+48\\sadness\\S131_003_00000022.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4743719696998596
+    },
+    {
+        "image": "input/CK+48\\sadness\\S131_003_00000023.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.5864002704620361
+    },
+    {
+        "image": "input/CK+48\\sadness\\S131_003_00000024.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4874255955219269
+    },
+    {
+        "image": "input/CK+48\\sadness\\S132_002_00000016.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4707011580467224
+    },
+    {
+        "image": "input/CK+48\\sadness\\S132_002_00000017.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.494006872177124
+    },
+    {
+        "image": "input/CK+48\\sadness\\S132_002_00000018.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4811878800392151
+    },
+    {
+        "image": "input/CK+48\\sadness\\S136_003_00000012.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.5963152647018433
+    },
+    {
+        "image": "input/CK+48\\sadness\\S136_003_00000013.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.6057413220405579
+    },
+    {
+        "image": "input/CK+48\\sadness\\S136_003_00000014.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.6180458068847656
+    },
+    {
+        "image": "input/CK+48\\sadness\\S137_005_00000025.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7968953847885132
+    },
+    {
+        "image": "input/CK+48\\sadness\\S137_005_00000026.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.8069248199462891
+    },
+    {
+        "image": "input/CK+48\\sadness\\S137_005_00000027.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.8239657878875732
+    },
+    {
+        "image": "input/CK+48\\sadness\\S138_007_00000009.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.8993187546730042
+    },
+    {
+        "image": "input/CK+48\\sadness\\S138_007_00000010.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9282019138336182
+    },
+    {
+        "image": "input/CK+48\\sadness\\S138_007_00000011.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.9545251131057739
+    },
+    {
+        "image": "input/CK+48\\sadness\\S501_006_00000039.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4989793300628662
+    },
+    {
+        "image": "input/CK+48\\sadness\\S501_006_00000040.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.45746341347694397
+    },
+    {
+        "image": "input/CK+48\\sadness\\S501_006_00000041.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.49454861879348755
+    },
+    {
+        "image": "input/CK+48\\sadness\\S503_006_00000018.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.47427284717559814
+    },
+    {
+        "image": "input/CK+48\\sadness\\S503_006_00000019.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.4959340989589691
+    },
+    {
+        "image": "input/CK+48\\sadness\\S503_006_00000020.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "anger",
+        "confidence": 0.5735460519790649
+    },
+    {
+        "image": "input/CK+48\\sadness\\S504_006_00000016.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.49187225103378296
+    },
+    {
+        "image": "input/CK+48\\sadness\\S504_006_00000017.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.5002525448799133
+    },
+    {
+        "image": "input/CK+48\\sadness\\S504_006_00000018.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.5017644166946411
+    },
+    {
+        "image": "input/CK+48\\sadness\\S505_006_00000017.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7280662059783936
+    },
+    {
+        "image": "input/CK+48\\sadness\\S505_006_00000018.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7146196365356445
+    },
+    {
+        "image": "input/CK+48\\sadness\\S505_006_00000019.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7087048888206482
+    },
+    {
+        "image": "input/CK+48\\sadness\\S506_006_00000040.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7974928021430969
+    },
+    {
+        "image": "input/CK+48\\sadness\\S506_006_00000041.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.8027348518371582
+    },
+    {
+        "image": "input/CK+48\\sadness\\S506_006_00000042.png",
+        "true_emotion": "sadness",
+        "predicted_emotion": "sadness",
+        "confidence": 0.7807996869087219
+    },
+    {
+        "image": "input/CK+48\\surprise\\S010_002_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.993819534778595
+    },
+    {
+        "image": "input/CK+48\\surprise\\S010_002_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.993424654006958
+    },
+    {
+        "image": "input/CK+48\\surprise\\S010_002_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9926409125328064
+    },
+    {
+        "image": "input/CK+48\\surprise\\S011_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9997395873069763
+    },
+    {
+        "image": "input/CK+48\\surprise\\S011_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9995434880256653
+    },
+    {
+        "image": "input/CK+48\\surprise\\S011_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9993651509284973
+    },
+    {
+        "image": "input/CK+48\\surprise\\S014_001_00000027.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.996461808681488
+    },
+    {
+        "image": "input/CK+48\\surprise\\S014_001_00000028.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9968701004981995
+    },
+    {
+        "image": "input/CK+48\\surprise\\S014_001_00000029.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9964907765388489
+    },
+    {
+        "image": "input/CK+48\\surprise\\S022_001_00000028.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999303817749023
+    },
+    {
+        "image": "input/CK+48\\surprise\\S022_001_00000029.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.999971866607666
+    },
+    {
+        "image": "input/CK+48\\surprise\\S022_001_00000030.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999829530715942
+    },
+    {
+        "image": "input/CK+48\\surprise\\S026_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9982002973556519
+    },
+    {
+        "image": "input/CK+48\\surprise\\S026_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9943694472312927
+    },
+    {
+        "image": "input/CK+48\\surprise\\S026_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9986995458602905
+    },
+    {
+        "image": "input/CK+48\\surprise\\S032_001_00000020.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.8576952815055847
+    },
+    {
+        "image": "input/CK+48\\surprise\\S032_001_00000021.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.8883742690086365
+    },
+    {
+        "image": "input/CK+48\\surprise\\S032_001_00000022.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.8555535078048706
+    },
+    {
+        "image": "input/CK+48\\surprise\\S034_001_00000027.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999967813491821
+    },
+    {
+        "image": "input/CK+48\\surprise\\S034_001_00000028.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\surprise\\S034_001_00000029.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999983310699463
+    },
+    {
+        "image": "input/CK+48\\surprise\\S035_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S035_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S035_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S037_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S037_001_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S037_001_00000020.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S042_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9998924732208252
+    },
+    {
+        "image": "input/CK+48\\surprise\\S042_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999961853027344
+    },
+    {
+        "image": "input/CK+48\\surprise\\S042_001_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999986886978149
+    },
+    {
+        "image": "input/CK+48\\surprise\\S044_001_00000022.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9974455833435059
+    },
+    {
+        "image": "input/CK+48\\surprise\\S044_001_00000023.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9955118298530579
+    },
+    {
+        "image": "input/CK+48\\surprise\\S044_001_00000024.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9933856129646301
+    },
+    {
+        "image": "input/CK+48\\surprise\\S046_002_00000004.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9987282156944275
+    },
+    {
+        "image": "input/CK+48\\surprise\\S046_002_00000005.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999141693115234
+    },
+    {
+        "image": "input/CK+48\\surprise\\S046_002_00000006.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999951124191284
+    },
+    {
+        "image": "input/CK+48\\surprise\\S050_002_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999899864196777
+    },
+    {
+        "image": "input/CK+48\\surprise\\S050_002_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.999992847442627
+    },
+    {
+        "image": "input/CK+48\\surprise\\S050_002_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999909400939941
+    },
+    {
+        "image": "input/CK+48\\surprise\\S051_002_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.6335188150405884
+    },
+    {
+        "image": "input/CK+48\\surprise\\S051_002_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.8271970748901367
+    },
+    {
+        "image": "input/CK+48\\surprise\\S051_002_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.8790372610092163
+    },
+    {
+        "image": "input/CK+48\\surprise\\S052_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\surprise\\S052_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999991655349731
+    },
+    {
+        "image": "input/CK+48\\surprise\\S052_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999992847442627
+    },
+    {
+        "image": "input/CK+48\\surprise\\S053_001_00000021.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S053_001_00000022.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S053_001_00000023.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S054_003_00000005.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9369353652000427
+    },
+    {
+        "image": "input/CK+48\\surprise\\S054_003_00000006.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\surprise\\S054_003_00000007.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S055_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S055_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S055_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S056_003_00000008.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S056_003_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\surprise\\S056_003_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S057_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9651212692260742
+    },
+    {
+        "image": "input/CK+48\\surprise\\S057_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9834738373756409
+    },
+    {
+        "image": "input/CK+48\\surprise\\S057_001_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9733225703239441
+    },
+    {
+        "image": "input/CK+48\\surprise\\S058_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9995356798171997
+    },
+    {
+        "image": "input/CK+48\\surprise\\S058_001_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9994094371795654
+    },
+    {
+        "image": "input/CK+48\\surprise\\S058_001_00000020.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9994295239448547
+    },
+    {
+        "image": "input/CK+48\\surprise\\S059_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S059_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S059_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S060_003_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999990463256836
+    },
+    {
+        "image": "input/CK+48\\surprise\\S060_003_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S060_003_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999986886978149
+    },
+    {
+        "image": "input/CK+48\\surprise\\S061_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S061_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S061_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S062_002_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9976430535316467
+    },
+    {
+        "image": "input/CK+48\\surprise\\S062_002_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.999049723148346
+    },
+    {
+        "image": "input/CK+48\\surprise\\S062_002_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9985405206680298
+    },
+    {
+        "image": "input/CK+48\\surprise\\S063_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\surprise\\S063_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999985694885254
+    },
+    {
+        "image": "input/CK+48\\surprise\\S063_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\surprise\\S064_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\surprise\\S064_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S064_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S065_003_00000020.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999575614929199
+    },
+    {
+        "image": "input/CK+48\\surprise\\S065_003_00000021.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999861717224121
+    },
+    {
+        "image": "input/CK+48\\surprise\\S065_003_00000022.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999748468399048
+    },
+    {
+        "image": "input/CK+48\\surprise\\S066_002_00000020.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S066_002_00000021.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S066_002_00000022.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S067_002_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S067_002_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999978542327881
+    },
+    {
+        "image": "input/CK+48\\surprise\\S067_002_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999990463256836
+    },
+    {
+        "image": "input/CK+48\\surprise\\S068_003_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999479055404663
+    },
+    {
+        "image": "input/CK+48\\surprise\\S068_003_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999325275421143
+    },
+    {
+        "image": "input/CK+48\\surprise\\S068_003_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999778270721436
+    },
+    {
+        "image": "input/CK+48\\surprise\\S069_002_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S069_002_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999991655349731
+    },
+    {
+        "image": "input/CK+48\\surprise\\S069_002_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S070_002_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9995076656341553
+    },
+    {
+        "image": "input/CK+48\\surprise\\S070_002_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.998883068561554
+    },
+    {
+        "image": "input/CK+48\\surprise\\S070_002_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9976671934127808
+    },
+    {
+        "image": "input/CK+48\\surprise\\S071_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999712705612183
+    },
+    {
+        "image": "input/CK+48\\surprise\\S071_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999796152114868
+    },
+    {
+        "image": "input/CK+48\\surprise\\S071_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999793767929077
+    },
+    {
+        "image": "input/CK+48\\surprise\\S073_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S073_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S073_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S074_002_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\surprise\\S074_002_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\surprise\\S074_002_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S075_002_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999614953994751
+    },
+    {
+        "image": "input/CK+48\\surprise\\S075_002_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999918937683105
+    },
+    {
+        "image": "input/CK+48\\surprise\\S075_002_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.99998939037323
+    },
+    {
+        "image": "input/CK+48\\surprise\\S076_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\surprise\\S076_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S076_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S077_001_00000026.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S077_001_00000027.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S077_001_00000028.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S078_001_00000031.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\surprise\\S078_001_00000032.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S078_001_00000033.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S079_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9524094462394714
+    },
+    {
+        "image": "input/CK+48\\surprise\\S079_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9862836599349976
+    },
+    {
+        "image": "input/CK+48\\surprise\\S079_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.995412290096283
+    },
+    {
+        "image": "input/CK+48\\surprise\\S080_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\surprise\\S080_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999983310699463
+    },
+    {
+        "image": "input/CK+48\\surprise\\S080_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\surprise\\S081_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999974966049194
+    },
+    {
+        "image": "input/CK+48\\surprise\\S081_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999982118606567
+    },
+    {
+        "image": "input/CK+48\\surprise\\S081_001_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999935626983643
+    },
+    {
+        "image": "input/CK+48\\surprise\\S082_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S082_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S082_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S084_001_00000008.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999988079071045
+    },
+    {
+        "image": "input/CK+48\\surprise\\S084_001_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S084_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S085_003_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S085_003_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S085_003_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S086_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999927282333374
+    },
+    {
+        "image": "input/CK+48\\surprise\\S086_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999969005584717
+    },
+    {
+        "image": "input/CK+48\\surprise\\S086_001_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999957084655762
+    },
+    {
+        "image": "input/CK+48\\surprise\\S087_001_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9987288117408752
+    },
+    {
+        "image": "input/CK+48\\surprise\\S087_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9994730353355408
+    },
+    {
+        "image": "input/CK+48\\surprise\\S087_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9998382329940796
+    },
+    {
+        "image": "input/CK+48\\surprise\\S088_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S088_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S088_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S089_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S089_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S089_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S090_002_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999916553497314
+    },
+    {
+        "image": "input/CK+48\\surprise\\S090_002_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999382495880127
+    },
+    {
+        "image": "input/CK+48\\surprise\\S090_002_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999738931655884
+    },
+    {
+        "image": "input/CK+48\\surprise\\S092_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S092_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S092_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S094_001_00000008.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9987181425094604
+    },
+    {
+        "image": "input/CK+48\\surprise\\S094_001_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9993414282798767
+    },
+    {
+        "image": "input/CK+48\\surprise\\S094_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9997197985649109
+    },
+    {
+        "image": "input/CK+48\\surprise\\S095_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999850988388062
+    },
+    {
+        "image": "input/CK+48\\surprise\\S095_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999856948852539
+    },
+    {
+        "image": "input/CK+48\\surprise\\S095_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999420642852783
+    },
+    {
+        "image": "input/CK+48\\surprise\\S096_001_00000005.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9773503541946411
+    },
+    {
+        "image": "input/CK+48\\surprise\\S096_001_00000006.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9998152852058411
+    },
+    {
+        "image": "input/CK+48\\surprise\\S096_001_00000007.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999979734420776
+    },
+    {
+        "image": "input/CK+48\\surprise\\S097_001_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999988079071045
+    },
+    {
+        "image": "input/CK+48\\surprise\\S097_001_00000020.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S097_001_00000021.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S099_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S099_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S099_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S100_002_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S100_002_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S100_002_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S101_002_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999953508377075
+    },
+    {
+        "image": "input/CK+48\\surprise\\S101_002_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999972581863403
+    },
+    {
+        "image": "input/CK+48\\surprise\\S101_002_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999986886978149
+    },
+    {
+        "image": "input/CK+48\\surprise\\S102_002_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999208450317383
+    },
+    {
+        "image": "input/CK+48\\surprise\\S102_002_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999444484710693
+    },
+    {
+        "image": "input/CK+48\\surprise\\S102_002_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999786615371704
+    },
+    {
+        "image": "input/CK+48\\surprise\\S107_001_00000008.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S107_001_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S107_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S110_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S110_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S110_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S111_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.999998927116394
+    },
+    {
+        "image": "input/CK+48\\surprise\\S111_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999990463256836
+    },
+    {
+        "image": "input/CK+48\\surprise\\S111_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999992847442627
+    },
+    {
+        "image": "input/CK+48\\surprise\\S113_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999819993972778
+    },
+    {
+        "image": "input/CK+48\\surprise\\S113_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999984502792358
+    },
+    {
+        "image": "input/CK+48\\surprise\\S113_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S114_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999988079071045
+    },
+    {
+        "image": "input/CK+48\\surprise\\S114_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\surprise\\S114_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999998807907104
+    },
+    {
+        "image": "input/CK+48\\surprise\\S115_001_00000006.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9992955923080444
+    },
+    {
+        "image": "input/CK+48\\surprise\\S115_001_00000007.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999021291732788
+    },
+    {
+        "image": "input/CK+48\\surprise\\S115_001_00000008.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999916553497314
+    },
+    {
+        "image": "input/CK+48\\surprise\\S116_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S116_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999994039535522
+    },
+    {
+        "image": "input/CK+48\\surprise\\S116_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999947547912598
+    },
+    {
+        "image": "input/CK+48\\surprise\\S117_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999951124191284
+    },
+    {
+        "image": "input/CK+48\\surprise\\S117_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9996832609176636
+    },
+    {
+        "image": "input/CK+48\\surprise\\S117_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999663829803467
+    },
+    {
+        "image": "input/CK+48\\surprise\\S119_001_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S119_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999980926513672
+    },
+    {
+        "image": "input/CK+48\\surprise\\S119_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999974966049194
+    },
+    {
+        "image": "input/CK+48\\surprise\\S122_001_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S122_001_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S122_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S124_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999988079071045
+    },
+    {
+        "image": "input/CK+48\\surprise\\S124_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999991655349731
+    },
+    {
+        "image": "input/CK+48\\surprise\\S124_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\surprise\\S125_007_00000007.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.48616617918014526
+    },
+    {
+        "image": "input/CK+48\\surprise\\S125_007_00000008.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.6026930809020996
+    },
+    {
+        "image": "input/CK+48\\surprise\\S125_007_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9639120101928711
+    },
+    {
+        "image": "input/CK+48\\surprise\\S126_004_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999488592147827
+    },
+    {
+        "image": "input/CK+48\\surprise\\S126_004_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999948740005493
+    },
+    {
+        "image": "input/CK+48\\surprise\\S126_004_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999996423721313
+    },
+    {
+        "image": "input/CK+48\\surprise\\S127_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999912977218628
+    },
+    {
+        "image": "input/CK+48\\surprise\\S127_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999935626983643
+    },
+    {
+        "image": "input/CK+48\\surprise\\S127_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999909400939941
+    },
+    {
+        "image": "input/CK+48\\surprise\\S129_002_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "contempt",
+        "confidence": 0.2501702904701233
+    },
+    {
+        "image": "input/CK+48\\surprise\\S129_002_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "contempt",
+        "confidence": 0.281455934047699
+    },
+    {
+        "image": "input/CK+48\\surprise\\S129_002_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "contempt",
+        "confidence": 0.2934221923351288
+    },
+    {
+        "image": "input/CK+48\\surprise\\S130_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9998737573623657
+    },
+    {
+        "image": "input/CK+48\\surprise\\S130_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9998944997787476
+    },
+    {
+        "image": "input/CK+48\\surprise\\S130_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999144077301025
+    },
+    {
+        "image": "input/CK+48\\surprise\\S131_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S131_001_00000015.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S131_001_00000016.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 1.0
+    },
+    {
+        "image": "input/CK+48\\surprise\\S132_008_00000008.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.976108729839325
+    },
+    {
+        "image": "input/CK+48\\surprise\\S132_008_00000009.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9992566704750061
+    },
+    {
+        "image": "input/CK+48\\surprise\\S132_008_00000010.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.999880313873291
+    },
+    {
+        "image": "input/CK+48\\surprise\\S133_009_00000004.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9746900200843811
+    },
+    {
+        "image": "input/CK+48\\surprise\\S133_009_00000005.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9984956979751587
+    },
+    {
+        "image": "input/CK+48\\surprise\\S133_009_00000006.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9996331930160522
+    },
+    {
+        "image": "input/CK+48\\surprise\\S135_001_00000037.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999872446060181
+    },
+    {
+        "image": "input/CK+48\\surprise\\S135_001_00000038.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.999969482421875
+    },
+    {
+        "image": "input/CK+48\\surprise\\S135_001_00000039.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.999997615814209
+    },
+    {
+        "image": "input/CK+48\\surprise\\S136_001_00000017.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999992847442627
+    },
+    {
+        "image": "input/CK+48\\surprise\\S136_001_00000018.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999992847442627
+    },
+    {
+        "image": "input/CK+48\\surprise\\S136_001_00000019.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999995231628418
+    },
+    {
+        "image": "input/CK+48\\surprise\\S137_001_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.997490644454956
+    },
+    {
+        "image": "input/CK+48\\surprise\\S137_001_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9987949132919312
+    },
+    {
+        "image": "input/CK+48\\surprise\\S137_001_00000014.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9990653395652771
+    },
+    {
+        "image": "input/CK+48\\surprise\\S138_004_00000011.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9999693632125854
+    },
+    {
+        "image": "input/CK+48\\surprise\\S138_004_00000012.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9992488026618958
+    },
+    {
+        "image": "input/CK+48\\surprise\\S138_004_00000013.png",
+        "true_emotion": "surprise",
+        "predicted_emotion": "surprise",
+        "confidence": 0.9995606541633606
+    }
+]
